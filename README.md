@@ -5,7 +5,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Dessoti&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-  <div style="display: inline_block"><br>
+  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   
@@ -15,7 +15,7 @@
  
 </div>
     <br>
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/eu_llemos7" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
